@@ -1,4 +1,4 @@
-[próximo](./chapter-1.md)  
+[próximo](./chapter-01.md)  
 
 # Projeto Gutenberg
 ## A Princesa e Curdie
@@ -17,4 +17,4 @@ Este ebook é para o uso de qualquer pessoa em qualquer lugar dos Estados Unidos
 |Tradução revisada por | Carolina Brandão|
 |Fonte | https://www.gutenberg.org/cache/epub/709/pg709-images.html|
 
-[próximo](./chapter-1.md)
+[próximo](./chapter-01.md)
